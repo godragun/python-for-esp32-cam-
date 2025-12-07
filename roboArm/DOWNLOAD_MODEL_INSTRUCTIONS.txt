@@ -1,0 +1,38 @@
+MOBILENET SSD MODEL DOWNLOAD INSTRUCTIONS
+==========================================
+
+The object_detection.py script requires two files:
+1. MobileNetSSD_deploy.caffemodel (you already have this!)
+2. MobileNetSSD_deploy.prototxt (you need to download this)
+
+To download the prototxt file manually:
+
+OPTION 1: Direct Download
+--------------------------
+1. Open your web browser
+2. Go to: https://raw.githubusercontent.com/chuanqi305/MobileNet-SSD/master/voc/MobileNetSSD_deploy.prototxt
+3. Right-click and "Save As" to save as "MobileNetSSD_deploy.prototxt" in the same folder as object_detection.py
+4. If that doesn't work, try: https://github.com/chuanqi305/MobileNet-SSD/blob/master/voc/MobileNetSSD_deploy.prototxt
+   - Click "Raw" button to view raw content
+   - Save the page as "MobileNetSSD_deploy.prototxt" in the same folder as object_detection.py
+
+OPTION 2: GitHub Repository
+----------------------------
+1. Visit: https://github.com/chuanqi305/MobileNet-SSD
+2. Navigate to the repository
+3. Find "MobileNetSSD_deploy.prototxt" file
+4. Click on it and then click "Raw" button
+5. Save the file as "MobileNetSSD_deploy.prototxt" in your project folder
+
+OPTION 3: Alternative Source
+-----------------------------
+Search for "MobileNetSSD_deploy.prototxt download" in your browser
+and download from any reliable source.
+
+After downloading:
+------------------
+Place the prototxt file in the same directory as object_detection.py
+and run the script again.
+
+Both files should be in: C:\Users\VICTUS\Desktop\roboArm\
+

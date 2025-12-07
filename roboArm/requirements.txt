@@ -1,0 +1,10 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+mediapipe>=0.10.0
+fer>=22.5.0
+tensorflow>=2.13.0
+screen-brightness-control>=0.9.0
+pycaw>=20230407
+comtypes>=1.4.0
+Pillow>=10.0.0
+
