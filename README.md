@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/godragun/python-for-esp32-cam-/main/pythonesp32.jpeg" alt="Python ESP32" width="360" style="margin-right:12px;"/>
+  <img src="https://raw.githubusercontent.com/godragun/python-for-esp32-cam-/main/puthonesp32cam.jpeg" alt="Put Phone ESP32 CAM" width="360" style="margin-left:12px;"/>
+</p>
+
 # ESP32-CAM Python Applications
 
 This repository contains multiple Python applications that connect to an ESP32-CAM via Wi-Fi and perform various computer vision and gesture recognition tasks.
